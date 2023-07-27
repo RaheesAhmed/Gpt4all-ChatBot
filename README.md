@@ -17,16 +17,16 @@ To run the web app locally, you will need the following:
 
 ```bash
    git clone https://github.com/RaheesAhmed/Gpt4all-ChatBot.git
-
+```
 2. Install the required Python packages:
 
 ```bash
    pip install Flask gpt4all
-
+```
 Start the web app:
 ```bash
    python main.py
-
+```
 Access the web app in your web browser:
 Open your web browser and go to http://127.0.0.1:5000/ to access the chat interface. You can now chat with the GPT4All-powered chatbot.
 
